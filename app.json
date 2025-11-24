@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0f0f0f"
       },
-      "package": "com.bikram.cinhub"
+      "package": "com.bikram.cinhub.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
